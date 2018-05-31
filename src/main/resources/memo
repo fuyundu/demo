@@ -1,0 +1,2 @@
+优先级顺序为：META/resources > resources > static > public 
+mvn archetype:generate -DgroupId=com.companyname.automobile -DartifactId=trucks-DarchetypeArtifactId=maven-archetype-webapp -DinteractiveMode=false
