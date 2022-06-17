@@ -108,7 +108,7 @@
 		<dependency>
 			<groupId>com.alibaba</groupId>
 			<artifactId>fastjson</artifactId>
-			<version>1.2.45</version>
+			<version>1.2.83</version>
 		</dependency>
 
 		<!-- maven 插件 要不pom报错 -->
